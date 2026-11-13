@@ -1,0 +1,5 @@
+print("Hello, AI Bootcamp!")
+
+name = "AI Developer"
+
+print(f"Welcome, {name}!")
